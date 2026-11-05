@@ -16,3 +16,8 @@ Synchronization is performed locally using rclone.
 
 This website provides information about the OAuth application
 used for personal Google Drive synchronization.
+
+## Legal Information
+
+- [Privacy Policy](privacy.html)
+- [Terms of Service](terms.html)
